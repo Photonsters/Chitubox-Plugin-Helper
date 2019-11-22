@@ -51,5 +51,10 @@ Have fun making plugins, hope this helps ;)
 
 
 The Photonsters Team
+
+----
+
+![ChituboxPluginHelper](https://user-images.githubusercontent.com/11083514/69392720-d6841c80-0cce-11ea-8ed2-8a2eba4f7d82.png)
+
  
 
