@@ -42,6 +42,10 @@ With that information you can parse the gcode file and modify it's contents, ren
 
 Once your executable file is finished Chitubox proceeds to zip the files found on its temporary folder and renames the file extension to the one you set in the json registration file.
 
+## WHY
+
+Basically i wrote this to answer my own question since i am trying to make a plugin for a new printer you can read the original question in the facebook https://www.facebook.com/groups/104983723495672/permalink/438879950106046/
+
 Have fun making plugins, hope this helps ;)
 The Photonsters Team
 
