@@ -15,8 +15,7 @@ This plugin needs Python 3.5+ to work and no extra dependencies
 - Make sure you select add python to PATH checkbox: https://docs.python.org/3/using/windows.html
 - If you forget to check the box you can run the installer again choose modify and add checkmark to the checkbox
 - Download [ChituboxPluginHelper.CHplugin](https://github.com/Photonsters/Chitubox-Plugin-Helper/raw/master/ChituboxPluginHelper_191122.CHplugin) and execute it, it will open Chitubox and self register
-    
-   Choose Debug.zip file when saving the sliced file to call the plugin
+- Choose Debug.zip file when saving the sliced file to call the plugin
 
 ![ChituboxPluginHelper](https://user-images.githubusercontent.com/11083514/69392720-d6841c80-0cce-11ea-8ed2-8a2eba4f7d82.png)
 
@@ -43,9 +42,8 @@ With that information you can parse the gcode file and modify it's contents, ren
 
 Once your executable file is finished Chitubox proceeds to zip the files found on its temporary folder and renames the file extension to the one you set in the json registration file.
 
-
-    Have fun making plugins, hope this helps ;)
-    The Photonsters Team
+Have fun making plugins, hope this helps ;)
+The Photonsters Team
 
 
 
