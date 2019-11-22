@@ -19,6 +19,10 @@ This plugin needs Python 3.5+ to work and no extra dependencies
         
     If you forget to check the box you can run the installer again
     choose modify and add checkmark to the checkbox
+    
+    Download ChituboxPluginHelper.CHplugin and execute it, it will open Chitubox and self register
+    
+    Choose Debug.zip file when saving the sliced file to call the plugin
 
 
 ## HOW DOES THE PLUGIN WORK
