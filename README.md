@@ -46,15 +46,17 @@ With that information you can parse the gcode file and modify it's contents, ren
 
 Once your executable file is finished Chitubox proceeds to zip the files found on its temporary folder and renames the file extension to the one you set in the json registration file.
 
+![ChituboxPluginHelper](https://user-images.githubusercontent.com/11083514/69392720-d6841c80-0cce-11ea-8ed2-8a2eba4f7d82.png)
+
 
 Have fun making plugins, hope this helps ;)
 
 
-The Photonsters Team
+    The Photonsters Team
 
-----
 
-![ChituboxPluginHelper](https://user-images.githubusercontent.com/11083514/69392720-d6841c80-0cce-11ea-8ed2-8a2eba4f7d82.png)
+
+
 
  
 
