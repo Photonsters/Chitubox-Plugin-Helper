@@ -1,0 +1,16 @@
+{
+	"info":{
+		"name":"Debug temp folder" ,
+		"description":"Debug",
+		"author":"X3msnake",
+		"email":"",
+		"type":"outputSlicer" ,
+		"winExecPath":"plugin.bat" ,
+		"macExecPath":"plugin.bat",
+		"linuxExecPath":"plugin.bat",
+		"inputSuffix":"zip_raw_png_32b" ,
+		"outputSuffix":"zip",
+		"detail":"x3msnake v1.191121",
+		"requireVersion":"V1.3.0"
+	}
+}
