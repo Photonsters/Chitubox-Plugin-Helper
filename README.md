@@ -48,12 +48,12 @@ Beacause there is no official documentation for the Chitubox System and when ask
 
 Basically i wrote this to answer my own question since i am trying to make a plugin for a new printer
 
-    Can anyone explain what are the plugin capabilities?
-    From what i gathered all the plugin system does is execute a file and pass the temporary files path as arguments
-
-    plugin.json registers the executable file with chitubox and also holds information about author, version etc
-
-    Does the system pass any type of variables other than the path to temp the folder and if so what and how do we access them?
+> Can anyone explain what are the plugin capabilities?
+> From what i gathered all the plugin system does is execute a file and pass the temporary files path as arguments
+>
+> plugin.json registers the executable file with chitubox and also holds information about author, version etc
+>
+> Does the system pass any type of variables other than the path to temp the folder and if so what and how do we access them?
 
 You can read the original question in the facebook https://www.facebook.com/groups/104983723495672/permalink/438879950106046/
 
