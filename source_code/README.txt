@@ -17,7 +17,7 @@ This plugin needs Python 3.5+ to work, and no extra dependencies.
     If you forget to check the box, you can run the installer again, then
     choose modify and add checkmark to the checkbox to set the executable search path.
     
-    Download [ChituboxPluginHelper.CHplugin](https://github.com/Photonsters/Chitubox-Plugin-Helper/raw/master/ChituboxPluginHelper_191122.CHplugin) and execute it, it will open Chitubox and self register.
+    Download ChituboxPluginHelper.CHplugin and execute it, it will open Chitubox and self register.
     
     Choose "Debug.zip" file format when saving the sliced file to call the plugin.
 
