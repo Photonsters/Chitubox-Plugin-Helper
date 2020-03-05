@@ -23,7 +23,7 @@ This plugin needs Python 3.5+ to work, and no extra dependencies.
     
     Choose "Debug.zip" file format when saving the sliced file to call the plugin.
 	
-	Notes: to compile the windows python.py into a single exe > pyinstaller --onefile --windowed win_debug.py.py
+	Notes: to compile the windows python.py into a single exe > pyinstaller --icon=ppm.ico --onefile --windowed win_debug.py
 
 
 

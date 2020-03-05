@@ -5,7 +5,7 @@
 		"author":"X3msnake",
 		"email":"",
 		"type":"outputSlicer" ,
-		"winExecPath":"win_debug.py" ,
+		"winExecPath":"win_debug.exe" ,
 		"macExecPath":"./mac_debug.py",
 		"linuxExecPath":"./linux_debug.py",
 		"inputSuffix":"zip_raw_png" ,
