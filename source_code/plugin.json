@@ -5,11 +5,11 @@
 		"author":"X3msnake",
 		"email":"",
 		"type":"outputSlicer" ,
-		"winExecPath":"win_debug.bat" ,
+		"winExecPath":"./win_debug.py" ,
 		"macExecPath":"./mac_debug.py",
 		"linuxExecPath":"./linux_debug.py",
 		"inputSuffix":"zip_raw_png" ,
-		"outputSuffix":"zip",
+		"outputSuffix":"cws",
 		"detail":"x3msnake v2.200304",
 		"requireVersion":"V1.5.0"
 	}
