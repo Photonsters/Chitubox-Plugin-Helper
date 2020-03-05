@@ -1,16 +1,16 @@
 {
 	"info":{
 		"name":"Debug temp folder" ,
-		"description":"Debug",
+		"description":"DEBUG PLUGIN",
 		"author":"X3msnake",
 		"email":"",
 		"type":"outputSlicer" ,
-		"winExecPath":"plugin.bat" ,
-		"macExecPath":"plugin.bat",
-		"linuxExecPath":"plugin.bat",
-		"inputSuffix":"zip_raw_png_32b" ,
+		"winExecPath":"win_debug.bat" ,
+		"macExecPath":"./mac_debug.py",
+		"linuxExecPath":"./linux_debug.py",
+		"inputSuffix":"zip_raw_png" ,
 		"outputSuffix":"zip",
-		"detail":"x3msnake v1.191121",
-		"requireVersion":"V1.3.0"
+		"detail":"x3msnake v2.200304",
+		"requireVersion":"V1.5.0"
 	}
 }
