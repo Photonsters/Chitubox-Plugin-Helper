@@ -6,6 +6,8 @@
 This plugin needs Python 3.5+ to work, and no extra dependencies.
 
 
+
+
 ## INSTALLATION
 
     Download and install python
@@ -20,6 +22,8 @@ This plugin needs Python 3.5+ to work, and no extra dependencies.
     Download ChituboxPluginHelper.CHplugin and execute it, it will open Chitubox and self register.
     
     Choose "Debug.zip" file format when saving the sliced file to call the plugin.
+	
+	Notes: to compile the windows python.py into a single exe > pyinstaller --onefile --windowed win_debug.py.py
 
 
 
